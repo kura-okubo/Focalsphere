@@ -7,7 +7,7 @@
 % Notation:
 %           n   normal unit vector of the fault plane
 %           I   Slip direction
-%           z   Pole of the focal shere
+%           z   Pole of the focal sphere
 %           red and blue plane show the fault and auxiliary plane
 %           respectively.
 %
