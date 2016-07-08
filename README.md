@@ -1,5 +1,4 @@
 # Focal sphere
-
 Focal sphere imaging software for matlab.
 
 ## Description
