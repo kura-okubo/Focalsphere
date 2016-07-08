@@ -1,12 +1,17 @@
 # Focal sphere
 
-Focal sphere imaging software for matlab
+Focal sphere imaging software for matlab.
 
 ## Description
 
-***DEMO:***
-![](./snapshots/snapshot_Focalsphere1.png)
-![](./snapshots/snapshot_Focalsphere2.png)
+***DEMO (GIF Animation):***
+
+<center>
+<img src="./snapshots/demo.gif" alt="GIF" width="500">
+</center>
+
+
+
 
 ## Features
  - Plot the focal sphere in 3D and its vertical and horizontal projections simultaneously.
