@@ -1,6 +1,8 @@
 % Focalsphere(azimuth,dip,rake) plots focal sphere and projections.
 % Syntax:   Focalsphere(azimuth,dip,rake) or Focalsphere()
-%
+% Examples:
+%           Focalsphere(30,60,30)
+%           
 % Inputs:   azimuth, dip and rake for the focal sphere.
 %           Each unit should be degree. If there is no input, it plots sample case.
 % 
